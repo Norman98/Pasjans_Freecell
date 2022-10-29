@@ -1,2 +1,3 @@
-# Pasjans_Freecell
-Gra Pasjans Freecell jako aplikacja konsolowa napisana w języku C++.
+# Patience_Freecell
+
+Patience Freecell console game, C++
