@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stack": "cpp"
+    },
+    "files.autoSave": "off",
+    "editor.codeActionsOnSave": {
+    
+    },
+    "C_Cpp.autocompleteAddParentheses": true
+}
